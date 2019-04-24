@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">课堂考勤</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Lunacia</string>
+    <string name="nav_header_subtitle">215341332@qq.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="create_database">创建数据库</string>
+    <string name="clear_database">清空数据库</string>
+    <string name="clear_data">重置数据</string>
+</resources>
